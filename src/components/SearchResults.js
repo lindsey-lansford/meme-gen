@@ -1,11 +1,11 @@
 // Import our search method
-import search from '../utils/API';
 import { useState, useEffect } from 'react';
+import API from '../utils/API';
 
-const SearchResults = () => {
+const SearchResultsContainer = () => {
   return (
     <div>Card</div>
   )
 };
 
-export default SearchResults;
+export default SearchResultsContainer;
