@@ -2,7 +2,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import SearchResults from './components/SearchResults.js'
 
-function App() {
+const App = () => {
   return (
     <div>
       <SearchResults/>
