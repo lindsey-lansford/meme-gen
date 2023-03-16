@@ -1,11 +1,11 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Card from './Card.js'
+import SearchResultsContainer from './components/SearchResults.js'
 
 function App() {
   return (
     <div className="content">
-      <Card/>
+      <SearchResultsContainer/>
     </div>
   );
 }
