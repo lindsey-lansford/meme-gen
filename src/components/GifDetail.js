@@ -1,3 +1,5 @@
+// In the return method, I'm using the .map function to return a new array of `col`(bootstrap) and `img` elements that are specific to each search result
+
 const GifDetail = (props) => {
   return (
     <div className="content">
