@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/meme-giphy-gen/static/css/main.395a4e38.css",
+    "main.js": "/meme-giphy-gen/static/js/main.0990ca72.js",
+    "index.html": "/meme-giphy-gen/index.html",
+    "main.395a4e38.css.map": "/meme-giphy-gen/static/css/main.395a4e38.css.map",
+    "main.0990ca72.js.map": "/meme-giphy-gen/static/js/main.0990ca72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.395a4e38.css",
+    "static/js/main.0990ca72.js"
+  ]
+}
